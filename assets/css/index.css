@@ -1,0 +1,10 @@
+body {
+    background-color: #f0ebd8;
+}
+#titulos {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #2d5147;
+    font-style: bold;
+}
