@@ -68,3 +68,18 @@ p {
     display: flex;
     gap: 5%;
 }
+.banner-2{
+    display: flex;
+    gap: 5%;
+}
+
+.imagem-lateral-2 {
+    width: 100px;
+    height: auto;
+    border-radius: 2px;
+  }
+.container-flex-2 {
+    align-items:normal;
+    justify-content: center;
+
+}
