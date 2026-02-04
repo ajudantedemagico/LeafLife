@@ -1,0 +1,54 @@
+*{margin: 2%; padding: 0;}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0ebd8;
+}
+h1 {
+    font-family: "Manrope", sans-serif;
+    color: #2d5147;
+    font-size: 25px;
+}
+p {
+   font-family: "Manrope", sans-serif;
+   color: #2d5147;
+   font-size: 14px; 
+}
+button {
+    width: 120px;
+    height: 40px;
+    font-family: "Manrope", sans-serif; color: #2d5147;
+    background-color: #bfda8d;
+    border-radius: 3px;
+    border-color: #bfda8d;
+    border-style: none;
+    font-size: 15px;
+}
+form {
+    font-family: "Manrope", sans-serif;
+
+}
+#logo {
+    width: 20%;
+}
+
+.formulario-login {
+    font-family: "Manrope", sans-serif;
+    color: #2d5147;
+
+}
+.links-extras {
+    display: flex;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: #bfda8d;
+
+}
